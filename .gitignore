@@ -1,0 +1,3 @@
+vendor/
+*mandrill*.zip
+composer.lock

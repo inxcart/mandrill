@@ -1,0 +1,17 @@
+{
+    "name": "thirtybees/mandrill",
+    "type": "library",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Michael Dekker",
+            "email": "git@michaeldekker.nl"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "MandrillModule\\": "classes/"
+        }
+    }
+}
