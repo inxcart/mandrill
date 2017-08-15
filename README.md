@@ -23,4 +23,4 @@ Install the module and enter your Mandrill API key (can be found on [this page](
 
 If the module cannot be installed due to the overrides already being in use, then you will have to either:
 - Remove the previous overrides
-- Find a way to merge the Mandrill overrides (they can be found in this modules folder [`/overrides/classes`])
+- Find a way to merge the Mandrill overrides (they can be found in this module folder [`/overrides/classes`])
