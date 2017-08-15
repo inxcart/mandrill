@@ -19,6 +19,11 @@ This will be configurable in a future version.
 
 Install the module and enter your Mandrill API key (can be found on [this page](https://mandrillapp.com/settings/index)).
 
+## Requirements
+- thirty bees 1.0.0+
+- PHP 5.5+
+- PHP cURL extension
+
 ## Troubleshooting
 
 If the module cannot be installed due to the overrides already being in use, then you will have to either:
