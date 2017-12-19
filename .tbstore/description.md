@@ -1,0 +1,1 @@
+The thirty bees Mandrill module lets you use Mailchimp's secure SMTP service to send all transactional emails from your site. You need to have an active Mailchimp account to use Mandrill to send your transactional emails.

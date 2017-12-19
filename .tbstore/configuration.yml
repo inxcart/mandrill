@@ -1,0 +1,14 @@
+module_name: Mandrill Module
+compatible_versions: 1.0.0+
+author: thirty bees
+category: administration
+tags:
+  - mandrill
+  - mailchimp
+  - smtp
+  - email
+description_short: The Mandrill module allows you to connect Mandrill to your store to send emails through
+description: description.md
+images:
+  - image-1.png
+license: AFL
